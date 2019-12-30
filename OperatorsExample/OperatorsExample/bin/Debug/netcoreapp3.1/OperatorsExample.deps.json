@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OperatorsExample/1.0.0": {
+        "runtime": {
+          "OperatorsExample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperatorsExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
