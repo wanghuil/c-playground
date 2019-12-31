@@ -1,0 +1,11 @@
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\bin\Debug\netcoreapp3.1\StatesmentsExample2.exe
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\bin\Debug\netcoreapp3.1\StatesmentsExample2.deps.json
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\bin\Debug\netcoreapp3.1\StatesmentsExample2.runtimeconfig.json
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\bin\Debug\netcoreapp3.1\StatesmentsExample2.runtimeconfig.dev.json
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\bin\Debug\netcoreapp3.1\StatesmentsExample2.dll
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\bin\Debug\netcoreapp3.1\StatesmentsExample2.pdb
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\obj\Debug\netcoreapp3.1\StatesmentsExample2.csprojAssemblyReference.cache
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\obj\Debug\netcoreapp3.1\StatesmentsExample2.AssemblyInfoInputs.cache
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\obj\Debug\netcoreapp3.1\StatesmentsExample2.AssemblyInfo.cs
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\obj\Debug\netcoreapp3.1\StatesmentsExample2.dll
+C:\Users\hslwli\source\repos\StatesmentsExample2\StatesmentsExample2\obj\Debug\netcoreapp3.1\StatesmentsExample2.pdb
