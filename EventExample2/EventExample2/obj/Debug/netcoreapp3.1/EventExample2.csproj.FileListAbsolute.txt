@@ -1,0 +1,11 @@
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\bin\Debug\netcoreapp3.1\EventExample2.exe
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\bin\Debug\netcoreapp3.1\EventExample2.deps.json
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\bin\Debug\netcoreapp3.1\EventExample2.runtimeconfig.json
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\bin\Debug\netcoreapp3.1\EventExample2.runtimeconfig.dev.json
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\bin\Debug\netcoreapp3.1\EventExample2.dll
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\bin\Debug\netcoreapp3.1\EventExample2.pdb
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\obj\Debug\netcoreapp3.1\EventExample2.csprojAssemblyReference.cache
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\obj\Debug\netcoreapp3.1\EventExample2.AssemblyInfoInputs.cache
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\obj\Debug\netcoreapp3.1\EventExample2.AssemblyInfo.cs
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\obj\Debug\netcoreapp3.1\EventExample2.dll
+C:\Users\hslwli\source\repos\EventExample2\EventExample2\obj\Debug\netcoreapp3.1\EventExample2.pdb
