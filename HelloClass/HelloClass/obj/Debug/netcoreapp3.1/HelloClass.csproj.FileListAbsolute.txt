@@ -1,0 +1,11 @@
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\bin\Debug\netcoreapp3.1\HelloClass.exe
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\bin\Debug\netcoreapp3.1\HelloClass.deps.json
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\bin\Debug\netcoreapp3.1\HelloClass.runtimeconfig.json
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\bin\Debug\netcoreapp3.1\HelloClass.runtimeconfig.dev.json
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\bin\Debug\netcoreapp3.1\HelloClass.dll
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\bin\Debug\netcoreapp3.1\HelloClass.pdb
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\obj\Debug\netcoreapp3.1\HelloClass.csprojAssemblyReference.cache
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\obj\Debug\netcoreapp3.1\HelloClass.AssemblyInfoInputs.cache
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\obj\Debug\netcoreapp3.1\HelloClass.AssemblyInfo.cs
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\obj\Debug\netcoreapp3.1\HelloClass.dll
+C:\Users\hslwli\source\repos\HelloClass\HelloClass\obj\Debug\netcoreapp3.1\HelloClass.pdb
