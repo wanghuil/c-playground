@@ -1,0 +1,11 @@
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\bin\Debug\netcoreapp3.1\ParametersExample.exe
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\bin\Debug\netcoreapp3.1\ParametersExample.deps.json
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\bin\Debug\netcoreapp3.1\ParametersExample.runtimeconfig.json
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\bin\Debug\netcoreapp3.1\ParametersExample.runtimeconfig.dev.json
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\bin\Debug\netcoreapp3.1\ParametersExample.dll
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\bin\Debug\netcoreapp3.1\ParametersExample.pdb
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\obj\Debug\netcoreapp3.1\ParametersExample.csprojAssemblyReference.cache
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\obj\Debug\netcoreapp3.1\ParametersExample.AssemblyInfoInputs.cache
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\obj\Debug\netcoreapp3.1\ParametersExample.AssemblyInfo.cs
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\obj\Debug\netcoreapp3.1\ParametersExample.dll
+C:\Users\hslwli\source\repos\ParametersExample\ParametersExample\obj\Debug\netcoreapp3.1\ParametersExample.pdb

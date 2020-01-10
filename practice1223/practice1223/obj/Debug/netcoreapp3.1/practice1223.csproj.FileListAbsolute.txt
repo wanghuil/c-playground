@@ -1,0 +1,17 @@
+C:\Users\hslwli\source\repos\practice1223\practice1223\bin\Debug\netcoreapp3.1\practice1223.exe
+C:\Users\hslwli\source\repos\practice1223\practice1223\bin\Debug\netcoreapp3.1\practice1223.deps.json
+C:\Users\hslwli\source\repos\practice1223\practice1223\bin\Debug\netcoreapp3.1\practice1223.runtimeconfig.json
+C:\Users\hslwli\source\repos\practice1223\practice1223\bin\Debug\netcoreapp3.1\practice1223.runtimeconfig.dev.json
+C:\Users\hslwli\source\repos\practice1223\practice1223\bin\Debug\netcoreapp3.1\practice1223.dll
+C:\Users\hslwli\source\repos\practice1223\practice1223\bin\Debug\netcoreapp3.1\practice1223.pdb
+C:\Users\hslwli\source\repos\practice1223\practice1223\bin\Debug\netcoreapp3.1\superCalculator.dll
+C:\Users\hslwli\source\repos\practice1223\practice1223\bin\Debug\netcoreapp3.1\superCalculator.pdb
+C:\Users\hslwli\source\repos\practice1223\practice1223\bin\Debug\netcoreapp3.1\Interop.MSForms.dll
+C:\Users\hslwli\source\repos\practice1223\practice1223\obj\Debug\netcoreapp3.1\practice1223.csprojAssemblyReference.cache
+C:\Users\hslwli\source\repos\practice1223\practice1223\obj\Debug\netcoreapp3.1\Interop.MSForms.dll
+C:\Users\hslwli\source\repos\practice1223\practice1223\obj\Debug\netcoreapp3.1\practice1223.csproj.ResolveComReference.cache
+C:\Users\hslwli\source\repos\practice1223\practice1223\obj\Debug\netcoreapp3.1\practice1223.AssemblyInfoInputs.cache
+C:\Users\hslwli\source\repos\practice1223\practice1223\obj\Debug\netcoreapp3.1\practice1223.AssemblyInfo.cs
+C:\Users\hslwli\source\repos\practice1223\practice1223\obj\Debug\netcoreapp3.1\practice1223.csproj.CopyComplete
+C:\Users\hslwli\source\repos\practice1223\practice1223\obj\Debug\netcoreapp3.1\practice1223.dll
+C:\Users\hslwli\source\repos\practice1223\practice1223\obj\Debug\netcoreapp3.1\practice1223.pdb
