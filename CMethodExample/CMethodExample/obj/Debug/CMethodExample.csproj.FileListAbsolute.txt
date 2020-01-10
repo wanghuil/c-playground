@@ -1,6 +1,0 @@
-C:\Users\hslwli\source\repos\CMethodExample\CMethodExample\bin\Debug\CMethodExample.exe.config
-C:\Users\hslwli\source\repos\CMethodExample\CMethodExample\bin\Debug\CMethodExample.exe
-C:\Users\hslwli\source\repos\CMethodExample\CMethodExample\bin\Debug\CMethodExample.pdb
-C:\Users\hslwli\source\repos\CMethodExample\CMethodExample\obj\Debug\CMethodExample.csprojAssemblyReference.cache
-C:\Users\hslwli\source\repos\CMethodExample\CMethodExample\obj\Debug\CMethodExample.exe
-C:\Users\hslwli\source\repos\CMethodExample\CMethodExample\obj\Debug\CMethodExample.pdb
